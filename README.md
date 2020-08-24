@@ -7,7 +7,6 @@
   - курс по Linux - [перейти](https://stepik.org/course/73)
   - курс "Python: основы и применение" - [перейти](https://stepik.org/course/512)
   - курс "Программирование на Python" - [перейти](https://stepik.org/course/67)
-
 - Онлайн курсы (на английском языке):
   -
 
