@@ -1,2 +1,2 @@
-# way_to_machine_learning
-Wat to machine learning 'Python' (Courses, Books, Blogs)
+# Путь с 0 к Machine Learning
+Подборка интересных материалов для изучения - Machine Learning, Big Data, Artificial Intelligence 'Python' (Курсы, книги, блоги, статьи).
