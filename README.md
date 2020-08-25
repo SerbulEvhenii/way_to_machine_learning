@@ -10,7 +10,7 @@
   - курс "Python: основы и применение" - [перейти](https://stepik.org/course/512)
   - курс "Программирование на Python" - [перейти](https://stepik.org/course/67)
 - Онлайн курсы (на английском языке):
-  -
+  - курс "Practical Deep Learning for Coders" - [перейти](https://course.fast.ai/)
 
 
 ## 2.Продвижение к понимаю Machine Learning
