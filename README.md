@@ -1,6 +1,8 @@
 # Путь с 0 к Machine Learning
 **Подборка интересных материалов для изучения - Machine Learning, Big Data, Artificial Intelligence 'Python' (Курсы, книги, блоги, статьи)**
 
+![Image AI](https://github.com/SerbulEvhenii/way_to_machine_learning/blob/master/AI_ML_DL.png)
+
 ## 1.Начало пути
 - Онлайн курсы (на русском языке):
   - курс по Git - [перейти](https://stepik.org/course/3145)
